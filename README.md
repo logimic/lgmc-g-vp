@@ -10,6 +10,7 @@ Obsahuje následující adresáře:
 - `pipes`: Angular pipes
 
 Projekt je použitý jako subrepository v rámci platformy firmy Logimic.
+- https://excalidraw.com/#json=A7CeMjOFewJ7kTYiRU6cR,GQj_G_yB9yJN4SSe3UV4Fg
 
 Závislosti:
 - Angular
